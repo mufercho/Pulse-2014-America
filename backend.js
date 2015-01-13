@@ -1,7 +1,7 @@
 var pepito = "Madrid";
 var basededatos = {
 	usuario: "martin",
-	password: "redondos"
+	password: "redondos26"
 };
 console.log("Arrancando server de node");
 
